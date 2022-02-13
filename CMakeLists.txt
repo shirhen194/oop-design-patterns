@@ -3,4 +3,4 @@ project(generic_c___implementations)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(generic_c___implementations main.cpp Builder.cpp)
+add_executable(generic_c___implementations main.cpp Builder.cpp Adapter.cpp)
