@@ -1,0 +1,37 @@
+#include <string>
+using namespace std;
+
+class Position{
+public:
+    float x, y;
+
+    Position(float x, float y) : x(x), y(y) {}
+    ~Position(){}
+};
+
+
+class Platform{
+public:
+    string platform;
+    //explicit Platform(string plat) : platform(plat) {}
+    explicit Platform(string plat) {
+        this->platform = plat;
+    };
+};
+
+class MainCharacter{
+public:
+    string mainCharacter;
+    //explicit MainCharacter(string mainCharacter) : mainCharacter(std::move(mainCharacter)) {}
+    explicit MainCharacter(string mC) {
+        this->mainCharacter = mC;
+    };
+};
+
+class Enemy{
+public:
+    string enemy;
+    explicit Enemy(string e) {
+        this->enemy = e;
+    };
+};

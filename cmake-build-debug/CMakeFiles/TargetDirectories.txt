@@ -1,0 +1,3 @@
+C:/Users/מני/CLionProjects/generic_c++_implementations/cmake-build-debug/CMakeFiles/generic_c___implementations.dir
+C:/Users/מני/CLionProjects/generic_c++_implementations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/מני/CLionProjects/generic_c++_implementations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

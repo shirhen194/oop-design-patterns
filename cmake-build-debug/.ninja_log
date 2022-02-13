@@ -1,0 +1,13 @@
+# ninja log v5
+283	3018	6663883754498752	CMakeFiles/generic_c___implementations.dir/Builder.cpp.obj	f8e28caa1f3535d4
+168	3729	6663883761647754	CMakeFiles/generic_c___implementations.dir/main.cpp.obj	e97c43fe835faab5
+3731	4444	6663883768623016	generic_c___implementations.exe	4fb1a74ae5c94190
+73	2383	6664812047778765	CMakeFiles/generic_c___implementations.dir/Builder.cpp.obj	80797d67c4d2e8e9
+31	2402	6664812047983197	CMakeFiles/generic_c___implementations.dir/main.cpp.obj	acae49f2db6df0f0
+30	2401	6664813016778382	CMakeFiles/generic_c___implementations.dir/Builder.cpp.obj	80797d67c4d2e8e9
+0	2416	6664813016942517	CMakeFiles/generic_c___implementations.dir/main.cpp.obj	acae49f2db6df0f0
+51	2106	6664813154773101	CMakeFiles/generic_c___implementations.dir/main.cpp.obj	acae49f2db6df0f0
+2	2181	6664813155621681	CMakeFiles/generic_c___implementations.dir/Builder.cpp.obj	80797d67c4d2e8e9
+2182	3500	6664813168655695	generic_c___implementations.exe	98640c1182c9d7aa
+1	1951	6664813822426211	CMakeFiles/generic_c___implementations.dir/main.cpp.obj	acae49f2db6df0f0
+1954	3381	6664813834967421	generic_c___implementations.exe	98640c1182c9d7aa
